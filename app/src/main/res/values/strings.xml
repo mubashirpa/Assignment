@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="label_charcha">Charcha</string>
+    <string name="label_bazaar">Bazaar</string>
+    <string name="label_profile">Profile</string>
+    <string name="like">Like</string>
+    <string name="message_coming_soon">This screen is still under construction.</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="public_">Public</string>
+    <string name="recent">Recent</string>
+    <string name="retry">Retry</string>
+    <string name="title_coming_soon">Screen under construction</string>
+    <string name="top">Top</string>
+    <string name="unable_to_load_media">Unable to load media</string>
+
+    <!-- Titles -->
+    <string name="title_comments_screen">Comments</string>
+
+    <!-- Errors -->
+    <string name="error_unexpected">An unexpected error occurred.</string>
+    <string name="error_unknown">Something wrong happened. Please try again.</string>
+    <string name="error_no_internet">No internet connection. Make sure that Wi-Fi or mobile data is turned on, then try again.</string>
+</resources>
